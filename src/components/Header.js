@@ -21,8 +21,6 @@ const HeaderLink = styled(Link)`{
 
 const Header = () => (
   <Container>
-    <HeaderLink to='/resume'>Resume</HeaderLink>
-    <HeaderLink to='/projects'>Projects</HeaderLink>
   </Container>
 )
 

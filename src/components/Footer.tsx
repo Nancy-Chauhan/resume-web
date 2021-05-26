@@ -9,11 +9,11 @@ export default function Footer() {
           {new Date().getFullYear()}
         </time>
         {' '}
-        Amitosh Swain Mahapatra. Content available under{' '}
+        Nancy Chauhan. Content available under{' '}
         <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0</a>
       </p>
       <p className='imprint'>
-        Powered by Gatsby. <a href='https://github.com/recrsn/amitosh.in'>Source</a>
+        Powered by Gatsby. <a href='https://github.com/Nancy-Chauhan/resume-web'>Source</a>
       </p>
     </footer>
   )

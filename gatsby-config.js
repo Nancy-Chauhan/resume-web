@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Amitosh Swain Mahapatra',
-    description: `Thoughts and Opinions by Amitosh`,
+    title: 'Nancy Chauhan',
+    description: `Resume of Nancy`,
     author: `@recrsn`,
     contactInfo: {
-      email: 'asm@amitosh.in',
-      twitter: 'recrsn',
-      linkedIn: 'amitosh-swain',
-      github: 'recrsn',
-      medium: 'amitosh.medium.com'
+      email: 'nancychn1@gmail.com',
+      twitter: '_nancychauhan',
+      linkedIn: 'nancy-chauhan',
+      github: 'Nancy-Chauhan',
+      medium: 'https://medium.com/@_nancychauhan'
     }
   },
   plugins: [

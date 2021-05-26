@@ -1,6 +1,6 @@
-# Amitosh's Personal Website
+# Nancy Chauhan Resume
 
-See amitosh.in
+See resume.nancychauhan.in
 
 Built using Gatsby
 
