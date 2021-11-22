@@ -175,8 +175,8 @@ export default function ResumePage() {
       <Intro>
         <p>
           I am a software engineer based in Bangalore, India with 2 years of
-          industry experience. I currently work at Grofers, solving problems in
-          supply chain. Primarily, I am focused on back-end development with
+          industry experience. I currently work at Zeotap. Previously I worked at Grofers. 
+          Primarily, I am focused on back-end development with
           Python and Java, and I am also skilled in cloud-native technologies
           such as Kubernetes and Docker. I also have a considerable amount of
           contribution to open-source. I regularly write technical blogs to
@@ -214,6 +214,23 @@ export default function ResumePage() {
         <h2>
           <FaBriefcase /> Work Experience
         </h2>
+        <ResumeItem>
+          <Title>Software Engineer at Zeotap</Title>
+          <Description>
+            Bangalore, India &mdash; August 2020 &ndash; present
+          </Description>
+          <p>
+            Backend engineer in Platform Engineering Team
+          </p>
+          <ul>
+            <li>
+              Design and develop services for accessing the data quality of ingesting data.
+            </li>
+            <li>
+              Developed services to capture metrics from different stages of data pipeline.
+            </li>
+          </ul>
+        </ResumeItem>
 
         <ResumeItem>
           <Title>Software Engineer at Grofers</Title>
